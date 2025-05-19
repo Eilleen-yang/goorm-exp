@@ -71,7 +71,6 @@ React 기반의 EXP 웹사이트 클론 프로젝트입니다.
 ## 💡 기능 소개
 
 🔗 [👉 메인 페이지 바로가기](https://goorm-exp-clone.vercel.app)
-🔗 [👉 피드백 페이지 바로가기](https://goorm-exp-clone.vercel.app/feedback?category=all&q=)
 
 ### ✅ 피드백 페이지 - 주요 기능
 
